@@ -4,7 +4,7 @@ pygame.init()
 
 WIDTH, HEIGHT = 600, 600
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Simple Matching Game")
+pygame.display.set_caption("1 and 2")
 
 font = pygame.font.SysFont("Arial", 36)
 white, black, red = (255, 255, 255), (0, 0, 0), (255, 0, 0)
